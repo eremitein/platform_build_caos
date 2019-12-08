@@ -35,7 +35,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 # The mainline checking whitelist, should be clean up
 PRODUCT_ARTIFACT_PATH_REQUIREMENT_WHITELIST += \
-    system/app/messaging/messaging.apk \
+    system/app/Messaging/Messaging.apk \
     system/app/WAPPushManager/WAPPushManager.apk \
     system/bin/healthd \
     system/etc/init/healthd.rc \
@@ -80,7 +80,7 @@ PRODUCT_EXTRA_VNDK_VERSIONS := 28
 
 # More AOSP packages
 PRODUCT_PACKAGES += \
-    messaging \
+    Messaging \
     PhotoTable \
     WAPPushManager \
     WallpaperPicker \
