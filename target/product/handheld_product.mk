@@ -26,13 +26,13 @@ PRODUCT_PACKAGES += \
     Camera2 \
     Contacts \
     DeskClock \
-    Gallery2 \
     LatinIME \
     Launcher3QuickStep \
     OneTimeInitializer \
     Provision \
     Settings \
     SettingsIntelligence \
+    SimpleGallery \
     StorageManager \
     SystemUI \
     WallpaperCropper \
